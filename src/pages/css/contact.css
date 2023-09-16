@@ -1,0 +1,13 @@
+.contact-container{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+    color:white;
+    /* margin-top: 15%; */
+}
+.contact-container-item{
+    margin:10px 10px ;
+    padding: 20px 20px;
+    border:2px solid blueviolet;
+    background: blueviolet;
+}

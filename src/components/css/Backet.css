@@ -1,0 +1,15 @@
+.BacketModal{
+    width: 1200px!important;
+    height: 80vh;
+    overflow-y: scroll;
+    margin-top: -20px;
+}
+.btn-close-shop{
+    background: blueviolet!important;
+    width: 100px;
+    height: 30px;
+    padding: 5px 5px;
+    margin-left: 45%!important;
+    border-radius: 10px;
+    margin-top: 2%;
+}

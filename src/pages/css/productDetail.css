@@ -1,0 +1,34 @@
+.product-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.product-card{
+    display: flex;
+    font-display: column;
+    /* border:2px solid red; */
+    align-items: center;
+    justify-content: center;
+    width: 1000px;
+    height: 800px;
+}
+.product-img{
+    width: 500px;
+    height: 500px;
+    /* border:2px solid red; */
+    padding: 5px 5px;
+}
+.product-about{
+    display: block;
+    padding: 5px 5px;
+    margin:10px 10px;
+    /* flex-direction: column; */
+}
+.product-title{
+    color:blueviolet;
+    font-size: 2vw;
+}
+.product-desc{
+    color:blue;
+    font-family: serif;
+}

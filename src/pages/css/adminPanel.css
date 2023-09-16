@@ -1,0 +1,33 @@
+.adminPanel h1{
+    color:blueviolet;
+    text-align: center;
+    font-family: cursive;
+}
+.btn-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 10px;
+    margin-top: 3%;
+}
+.btn{
+    margin-left: 10px;
+
+}
+.btn-del,.btn-add,.btn-edit{
+    height: 30px;
+    background: blue;
+    outline: none;
+    border:none;
+    margin:5px 5px;
+    padding:3px 3px;
+    color:white;
+    border-radius: 5%;
+    margin-top: 5%;
+}
+.btn-add:hover{
+    background: blueviolet;
+}
+.btn-del:hover{
+    background: blueviolet;
+}

@@ -1,0 +1,74 @@
+.basked-modal{
+    border-radius: 20px;
+    width: 800px;
+    height: 250px;
+    background-color: white!important;
+    margin-top: 20px;
+    color:blue;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.BacketModalBack{
+    background: white;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top:0;
+    left: 0;
+   
+    opacity: 0.9;
+}
+.basked-modal-title{
+    text-align: center;
+    color: blueviolet;
+    display: block!important;
+}
+.basked-modal-img{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+}
+.basked-modal-price{
+ font-style: italic;
+ font-size: 22px;
+}
+.basked-modal-price-i{
+    background: rgb(117, 117, 189);
+    color:white;
+}
+.basket-modal-container{
+    display: flex;
+    flex-direction: column;
+    border:2px solid transparent;
+    justify-content: center;
+    align-items: center;
+    background: #fffcfc;
+}
+.modal-container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+.btn-x,.btn-inc,.btn-dec{
+    width: 35px;
+    height: 35px;
+    padding: 5px 5px;
+    background: rgb(178, 102, 250);
+    border-radius:10%;
+    border:none;
+    margin-left:5px;
+    color:white;
+}
+.btn-delete{
+    display: block!important;
+    background: rgb(237, 76, 103);
+    border:none;
+    padding: 8px 8px;
+    color:white;
+}
+.TotalPrice{
+    width: 300px;
+    font-family: cursive;
+    color:blueviolet;
+    margin-top: 10px;
+}

@@ -1,0 +1,20 @@
+.loading,.error{
+    font-weight: 900;
+    text-align: center;
+    width: 300px;
+    color: blueviolet;
+    margin-left: 30%;
+    margin-top:10%;
+    font-size: 8vw;
+}
+.error{
+    font-size: 7vw;
+    width: 500px;
+}
+.buy-btn{
+    display: block!important;
+    display: block!important;
+    position: absolute;
+    margin-top: 472px;
+    left: 110px;
+}

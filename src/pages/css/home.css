@@ -1,0 +1,7 @@
+.carusel_img{
+    margin-left: 35%!important;
+    margin-top: 5%!important;
+    height: 420px;
+    object-fit: contain;
+    width: 500px;
+}
